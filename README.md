@@ -1,7 +1,5 @@
 # Coursera-Assignment
 
-
-
 This repository contains my solutions to the weekly assignments of the Course.
 
 
