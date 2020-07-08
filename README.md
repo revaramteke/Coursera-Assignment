@@ -11,3 +11,6 @@ Solution 3:   https://revaramteke.github.io/Coursera-Assignment/Assignment-3/ind
 
 Assignment 4: http://bit.ly/21StgWz
 Solution 4:   https://revaramteke.github.io/Coursera-Assignment/Assignment-4/index.html
+
+Assignment 5: http://bit.ly/1UWgPJ1
+Solution 5:  https://revaramteke.github.io/Coursera-Assignment/Assignment-5/index.html
